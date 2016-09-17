@@ -1,0 +1,1619 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Claset PUBLIC "-//EUROSTAT EG6 WG3//CLASET//EN" "http://ec.europa.eu/eurostat/ramon/claset/clasetxml.dtd">
+<Claset reference="ISIC_3">
+	<Classification id="ISIC_3" type="Classification">
+		<Label qualifier="Usual">
+			<LabelText language="EN">International Standard Industrial Classification of All Economic Activities, Revision 3 (1990)</LabelText>
+		</Label>
+		<Property name="Comment" dataType="AN">
+			<PropertyQualifier name="PlainText" language="EN">
+				<PropertyText type="Content">International Standard Industrial Classification of All Economic Activities, Revision 3 (1990)</PropertyText>
+			</PropertyQualifier>
+		</Property>
+		
+		<Level id="1" nbItems="18">
+		
+		<Level id="2" nbItems="60">
+		
+		<Level id="4" nbItems="292">
+		
+		<Level id="3" nbItems="159">
+		
+		</Level>
+		
+		</Level>
+		
+		</Level>
+		
+		</Level>
+		<Item id="00" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">IMPORTANT REMARK: This classification has been uploaded in RAMON for the specific needs of the &quot;Correspondence tables&quot; section of the server. The sole official version of this classification is to be found on the United Nations Web site. On this site you will also find much more information on this classification (for instance, other linguistic versions, detailed explanatory notes, rulings, etc.).</LabelText>
+</Label>
+</Item><Item id="A" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Agriculture, hunting and forestry</LabelText>
+</Label>
+</Item><Item id="01" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Agriculture, hunting and related service activities</LabelText>
+</Label>
+</Item><Item id="011" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Growing of crops; market gardening; horticulture</LabelText>
+</Label>
+</Item><Item id="0111" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Growing of cereals and other crops n.e.c.</LabelText>
+</Label>
+</Item><Item id="0112" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Growing of vegetables, horticultural specialties and nursery products</LabelText>
+</Label>
+</Item><Item id="0113" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Growing of fruit, nuts, beverage and spice crops</LabelText>
+</Label>
+</Item><Item id="012" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Farming of animals</LabelText>
+</Label>
+</Item><Item id="0121" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Farming of cattle, sheep, goats, horses, asses, mules and hinnies; dairy farming</LabelText>
+</Label>
+</Item><Item id="0122" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other animal farming; production of animal products n.e.c.</LabelText>
+</Label>
+</Item><Item id="013" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Growing of crops combined with farming of animals (mixed farming)</LabelText>
+</Label>
+</Item><Item id="0130" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Growing of crops combined with farming of animals (mixed farming)</LabelText>
+</Label>
+</Item><Item id="014" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Agricultural and animal husbandry service activities, except veterinary activities</LabelText>
+</Label>
+</Item><Item id="0140" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Agricultural and animal husbandry service activities, except veterinary activities</LabelText>
+</Label>
+</Item><Item id="015" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Hunting, trapping and game propagation including related service activities</LabelText>
+</Label>
+</Item><Item id="0150" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Hunting, trapping and game propagation including related service activities</LabelText>
+</Label>
+</Item><Item id="02" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Forestry, logging and related service activities</LabelText>
+</Label>
+</Item><Item id="020" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Forestry, logging and related service activities</LabelText>
+</Label>
+</Item><Item id="0200" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Forestry, logging and related service activities</LabelText>
+</Label>
+</Item><Item id="B" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Fishing</LabelText>
+</Label>
+</Item><Item id="05" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Fishing, operation of fish hatcheries and fish farms; service activities incidental to fishing</LabelText>
+</Label>
+</Item><Item id="050" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Fishing, operation of fish hatcheries and fish farms; service activities incidental to fishing</LabelText>
+</Label>
+</Item><Item id="0500" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Fishing, operation of fish hatcheries and fish farms; service activities incidental to fishing</LabelText>
+</Label>
+</Item><Item id="C" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Mining and quarrying</LabelText>
+</Label>
+</Item><Item id="10" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of coal and lignite; extraction of peat</LabelText>
+</Label>
+</Item><Item id="101" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Mining and agglomeration of hard coal</LabelText>
+</Label>
+</Item><Item id="1010" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Mining and agglomeration of hard coal</LabelText>
+</Label>
+</Item><Item id="102" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Mining and agglomeration of lignite</LabelText>
+</Label>
+</Item><Item id="1020" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Mining and agglomeration of lignite</LabelText>
+</Label>
+</Item><Item id="103" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Extraction and agglomeration of peat</LabelText>
+</Label>
+</Item><Item id="1030" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Extraction and agglomeration of peat</LabelText>
+</Label>
+</Item><Item id="11" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Extraction of crude petroleum and natural gas; service activities incidental to oil and gas extraction excluding surveying</LabelText>
+</Label>
+</Item><Item id="111" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Extraction of crude petroleum and natural gas</LabelText>
+</Label>
+</Item><Item id="1110" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Extraction of crude petroleum and natural gas</LabelText>
+</Label>
+</Item><Item id="112" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Service activities incidental to oil and gas extraction excluding surveying</LabelText>
+</Label>
+</Item><Item id="1120" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Service activities incidental to oil and gas extraction excluding surveying</LabelText>
+</Label>
+</Item><Item id="12" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of uranium and thorium ores</LabelText>
+</Label>
+</Item><Item id="120" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of uranium and thorium ores</LabelText>
+</Label>
+</Item><Item id="1200" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of uranium and thorium ores</LabelText>
+</Label>
+</Item><Item id="13" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of metal ores</LabelText>
+</Label>
+</Item><Item id="131" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of iron ores</LabelText>
+</Label>
+</Item><Item id="1310" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of iron ores</LabelText>
+</Label>
+</Item><Item id="132" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of non-ferrous metal ores, except uranium and thorium ores</LabelText>
+</Label>
+</Item><Item id="1320" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of non-ferrous metal ores, except uranium and thorium ores</LabelText>
+</Label>
+</Item><Item id="14" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Other mining and quarrying</LabelText>
+</Label>
+</Item><Item id="141" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Quarrying of stone, sand and clay</LabelText>
+</Label>
+</Item><Item id="1410" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Quarrying of stone, sand and clay</LabelText>
+</Label>
+</Item><Item id="142" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Mining and quarrying n.e.c.</LabelText>
+</Label>
+</Item><Item id="1421" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Mining of chemical and fertilizer minerals</LabelText>
+</Label>
+</Item><Item id="1422" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Extraction of salt</LabelText>
+</Label>
+</Item><Item id="1429" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other mining and quarrying n.e.c.</LabelText>
+</Label>
+</Item><Item id="D" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacturing</LabelText>
+</Label>
+</Item><Item id="15" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of food products and beverages</LabelText>
+</Label>
+</Item><Item id="151" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Production, processing and preservation of meat, fish, fruit, vegetables, oils and fats</LabelText>
+</Label>
+</Item><Item id="1511" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Production, processing and preserving of meat and meat products</LabelText>
+</Label>
+</Item><Item id="1512" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Processing and preserving of fish and fish products</LabelText>
+</Label>
+</Item><Item id="1513" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Processing and preserving of fruit and vegetables</LabelText>
+</Label>
+</Item><Item id="1514" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of vegetable and animal oils and fats</LabelText>
+</Label>
+</Item><Item id="152" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of dairy products</LabelText>
+</Label>
+</Item><Item id="1520" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of dairy products</LabelText>
+</Label>
+</Item><Item id="153" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of grain mill products, starches and starch products, and prepared animal feeds</LabelText>
+</Label>
+</Item><Item id="1531" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of grain mill products</LabelText>
+</Label>
+</Item><Item id="1532" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of starches and starch products</LabelText>
+</Label>
+</Item><Item id="1533" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of prepared animal feeds</LabelText>
+</Label>
+</Item><Item id="154" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other food products</LabelText>
+</Label>
+</Item><Item id="1541" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of bakery products</LabelText>
+</Label>
+</Item><Item id="1542" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of sugar</LabelText>
+</Label>
+</Item><Item id="1543" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of cocoa, chocolate and sugar confectionery</LabelText>
+</Label>
+</Item><Item id="1544" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of macaroni, noodles, couscous and similar farinaceous products</LabelText>
+</Label>
+</Item><Item id="1549" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other food products n.e.c.</LabelText>
+</Label>
+</Item><Item id="155" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of beverages</LabelText>
+</Label>
+</Item><Item id="1551" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Distilling, rectifying and blending of spirits; ethyl alcohol production from fermented materials</LabelText>
+</Label>
+</Item><Item id="1552" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of wines</LabelText>
+</Label>
+</Item><Item id="1553" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of malt liquors and malt</LabelText>
+</Label>
+</Item><Item id="1554" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of soft drinks; production of mineral waters</LabelText>
+</Label>
+</Item><Item id="16" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of tobacco products</LabelText>
+</Label>
+</Item><Item id="160" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of tobacco products</LabelText>
+</Label>
+</Item><Item id="1600" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of tobacco products</LabelText>
+</Label>
+</Item><Item id="17" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of textiles</LabelText>
+</Label>
+</Item><Item id="171" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Spinning, weaving and finishing of textiles</LabelText>
+</Label>
+</Item><Item id="1711" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Preparation and spinning of textile fibres; weaving of textiles</LabelText>
+</Label>
+</Item><Item id="1712" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Finishing of textiles</LabelText>
+</Label>
+</Item><Item id="172" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other textiles</LabelText>
+</Label>
+</Item><Item id="1721" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of made-up textile articles, except apparel</LabelText>
+</Label>
+</Item><Item id="1722" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of carpets and rugs</LabelText>
+</Label>
+</Item><Item id="1723" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of cordage, rope, twine and netting</LabelText>
+</Label>
+</Item><Item id="1729" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other textiles n.e.c.</LabelText>
+</Label>
+</Item><Item id="173" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of knitted and crocheted fabrics and articles</LabelText>
+</Label>
+</Item><Item id="1730" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of knitted and crocheted fabrics and articles</LabelText>
+</Label>
+</Item><Item id="18" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of wearing apparel; dressing and dyeing of fur</LabelText>
+</Label>
+</Item><Item id="181" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of wearing apparel, except fur apparel</LabelText>
+</Label>
+</Item><Item id="1810" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of wearing apparel, except fur apparel</LabelText>
+</Label>
+</Item><Item id="182" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Dressing and dyeing of fur; manufacture of articles of fur</LabelText>
+</Label>
+</Item><Item id="1820" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Dressing and dyeing of fur; manufacture of articles of fur</LabelText>
+</Label>
+</Item><Item id="19" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear</LabelText>
+</Label>
+</Item><Item id="191" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness</LabelText>
+</Label>
+</Item><Item id="1911" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Tanning and dressing of leather</LabelText>
+</Label>
+</Item><Item id="1912" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of luggage, handbags and the like, saddlery and harness</LabelText>
+</Label>
+</Item><Item id="192" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of footwear</LabelText>
+</Label>
+</Item><Item id="1920" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of footwear</LabelText>
+</Label>
+</Item><Item id="20" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials</LabelText>
+</Label>
+</Item><Item id="201" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Sawmilling and planing of wood</LabelText>
+</Label>
+</Item><Item id="2010" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Sawmilling and planing of wood</LabelText>
+</Label>
+</Item><Item id="202" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of products of wood, cork, straw and plaiting materials</LabelText>
+</Label>
+</Item><Item id="2021" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of veneer sheets; manufacture of plywood, laminboard, particle board and other panels and boards</LabelText>
+</Label>
+</Item><Item id="2022" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of builders&apos; carpentry and joinery</LabelText>
+</Label>
+</Item><Item id="2023" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of wooden containers</LabelText>
+</Label>
+</Item><Item id="2029" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials</LabelText>
+</Label>
+</Item><Item id="21" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of paper and paper products</LabelText>
+</Label>
+</Item><Item id="210" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of paper and paper products</LabelText>
+</Label>
+</Item><Item id="2101" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of pulp, paper and paperboard</LabelText>
+</Label>
+</Item><Item id="2102" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of corrugated paper and paperboard and of containers of paper and paperboard</LabelText>
+</Label>
+</Item><Item id="2109" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other articles of paper and paperboard</LabelText>
+</Label>
+</Item><Item id="22" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Publishing, printing and reproduction of recorded media</LabelText>
+</Label>
+</Item><Item id="221" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Publishing</LabelText>
+</Label>
+</Item><Item id="2211" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Publishing of books, brochures, musical books and other publications</LabelText>
+</Label>
+</Item><Item id="2212" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Publishing of newspapers, journals and periodicals</LabelText>
+</Label>
+</Item><Item id="2213" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Publishing of recorded media</LabelText>
+</Label>
+</Item><Item id="2219" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other publishing</LabelText>
+</Label>
+</Item><Item id="222" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Printing and service activities related to printing</LabelText>
+</Label>
+</Item><Item id="2221" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Printing</LabelText>
+</Label>
+</Item><Item id="2222" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Service activities related to printing</LabelText>
+</Label>
+</Item><Item id="223" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Reproduction of recorded media</LabelText>
+</Label>
+</Item><Item id="2230" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Reproduction of recorded media</LabelText>
+</Label>
+</Item><Item id="23" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of coke, refined petroleum products and nuclear fuel</LabelText>
+</Label>
+</Item><Item id="231" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of coke oven products</LabelText>
+</Label>
+</Item><Item id="2310" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of coke oven products</LabelText>
+</Label>
+</Item><Item id="232" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of refined petroleum products</LabelText>
+</Label>
+</Item><Item id="2320" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of refined petroleum products</LabelText>
+</Label>
+</Item><Item id="233" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Processing of nuclear fuel</LabelText>
+</Label>
+</Item><Item id="2330" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Processing of nuclear fuel</LabelText>
+</Label>
+</Item><Item id="24" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of chemicals and chemical products</LabelText>
+</Label>
+</Item><Item id="241" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of basic chemicals</LabelText>
+</Label>
+</Item><Item id="2411" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of basic chemicals, except fertilizers and nitrogen compounds</LabelText>
+</Label>
+</Item><Item id="2412" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of fertilizers and nitrogen compounds</LabelText>
+</Label>
+</Item><Item id="2413" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of plastics in primary forms and of synthetic rubber</LabelText>
+</Label>
+</Item><Item id="242" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other chemical products</LabelText>
+</Label>
+</Item><Item id="2421" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of pesticides and other agro-chemical products</LabelText>
+</Label>
+</Item><Item id="2422" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of paints, varnishes and similar coatings, printing ink and mastics</LabelText>
+</Label>
+</Item><Item id="2423" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of pharmaceuticals, medicinal chemicals and botanical products</LabelText>
+</Label>
+</Item><Item id="2424" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations</LabelText>
+</Label>
+</Item><Item id="2429" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other chemical products n.e.c.</LabelText>
+</Label>
+</Item><Item id="243" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of man-made fibres</LabelText>
+</Label>
+</Item><Item id="2430" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of man-made fibres</LabelText>
+</Label>
+</Item><Item id="25" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of rubber and plastics products</LabelText>
+</Label>
+</Item><Item id="251" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of rubber products</LabelText>
+</Label>
+</Item><Item id="2511" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres</LabelText>
+</Label>
+</Item><Item id="2519" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other rubber products</LabelText>
+</Label>
+</Item><Item id="252" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of plastics products</LabelText>
+</Label>
+</Item><Item id="2520" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of plastics products</LabelText>
+</Label>
+</Item><Item id="26" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other non-metallic mineral products</LabelText>
+</Label>
+</Item><Item id="261" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of glass and glass products</LabelText>
+</Label>
+</Item><Item id="2610" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of glass and glass products</LabelText>
+</Label>
+</Item><Item id="269" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of non-metallic mineral products n.e.c.</LabelText>
+</Label>
+</Item><Item id="2691" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of non-structural non-refractory ceramic ware</LabelText>
+</Label>
+</Item><Item id="2692" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of refractory ceramic products</LabelText>
+</Label>
+</Item><Item id="2693" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of structural non-refractory clay and ceramic products</LabelText>
+</Label>
+</Item><Item id="2694" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of cement, lime and plaster</LabelText>
+</Label>
+</Item><Item id="2695" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of articles of concrete, cement and plaster</LabelText>
+</Label>
+</Item><Item id="2696" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Cutting, shaping and finishing of stone</LabelText>
+</Label>
+</Item><Item id="2699" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other non-metallic mineral products n.e.c.</LabelText>
+</Label>
+</Item><Item id="27" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of basic metals</LabelText>
+</Label>
+</Item><Item id="271" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of basic iron and steel</LabelText>
+</Label>
+</Item><Item id="2710" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of basic iron and steel</LabelText>
+</Label>
+</Item><Item id="272" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of basic precious and non-ferrous metals</LabelText>
+</Label>
+</Item><Item id="2720" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of basic precious and non-ferrous metals</LabelText>
+</Label>
+</Item><Item id="273" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Casting of metals</LabelText>
+</Label>
+</Item><Item id="2731" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Casting of iron and steel</LabelText>
+</Label>
+</Item><Item id="2732" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Casting of non-ferrous metals</LabelText>
+</Label>
+</Item><Item id="28" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of fabricated metal products, except machinery and equipment</LabelText>
+</Label>
+</Item><Item id="281" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of structural metal products, tanks, reservoirs and steam generators</LabelText>
+</Label>
+</Item><Item id="2811" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of structural metal products</LabelText>
+</Label>
+</Item><Item id="2812" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of tanks, reservoirs and containers of metal</LabelText>
+</Label>
+</Item><Item id="2813" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of steam generators, except central heating hot water boilers</LabelText>
+</Label>
+</Item><Item id="289" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other fabricated metal products; metal working service activities</LabelText>
+</Label>
+</Item><Item id="2891" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Forging, pressing, stamping and roll-forming of metal; powder metallurgy</LabelText>
+</Label>
+</Item><Item id="2892" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Treatment and coating of metals; general mechanical engineering on a fee or contract basis</LabelText>
+</Label>
+</Item><Item id="2893" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of cutlery, hand tools and general hardware</LabelText>
+</Label>
+</Item><Item id="2899" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other fabricated metal products n.e.c.</LabelText>
+</Label>
+</Item><Item id="29" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of machinery and equipment n.e.c.</LabelText>
+</Label>
+</Item><Item id="291" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of general purpose machinery</LabelText>
+</Label>
+</Item><Item id="2911" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of engines and turbines, except aircraft, vehicle and cycle engines</LabelText>
+</Label>
+</Item><Item id="2912" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of pumps, compressors, taps and valves</LabelText>
+</Label>
+</Item><Item id="2913" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of bearings, gears, gearing and driving elements</LabelText>
+</Label>
+</Item><Item id="2914" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of ovens, furnaces and furnace burners</LabelText>
+</Label>
+</Item><Item id="2915" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of lifting and handling equipment</LabelText>
+</Label>
+</Item><Item id="2919" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other general purpose machinery</LabelText>
+</Label>
+</Item><Item id="292" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of special purpose machinery</LabelText>
+</Label>
+</Item><Item id="2921" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of agricultural and forestry machinery</LabelText>
+</Label>
+</Item><Item id="2922" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of machine-tools</LabelText>
+</Label>
+</Item><Item id="2923" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of machinery for metallurgy</LabelText>
+</Label>
+</Item><Item id="2924" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of machinery for mining, quarrying and construction</LabelText>
+</Label>
+</Item><Item id="2925" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of machinery for food, beverage and tobacco processing</LabelText>
+</Label>
+</Item><Item id="2926" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of machinery for textile, apparel and leather production</LabelText>
+</Label>
+</Item><Item id="2927" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of weapons and ammunition</LabelText>
+</Label>
+</Item><Item id="2929" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other special purpose machinery</LabelText>
+</Label>
+</Item><Item id="293" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of domestic appliances n.e.c.</LabelText>
+</Label>
+</Item><Item id="2930" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of domestic appliances n.e.c.</LabelText>
+</Label>
+</Item><Item id="30" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of office, accounting and computing machinery</LabelText>
+</Label>
+</Item><Item id="300" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of office, accounting and computing machinery</LabelText>
+</Label>
+</Item><Item id="3000" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of office, accounting and computing machinery</LabelText>
+</Label>
+</Item><Item id="31" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of electrical machinery and apparatus n.e.c.</LabelText>
+</Label>
+</Item><Item id="311" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of electric motors, generators and transformers</LabelText>
+</Label>
+</Item><Item id="3110" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of electric motors, generators and transformers</LabelText>
+</Label>
+</Item><Item id="312" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of electricity distribution and control apparatus</LabelText>
+</Label>
+</Item><Item id="3120" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of electricity distribution and control apparatus</LabelText>
+</Label>
+</Item><Item id="313" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of insulated wire and cable</LabelText>
+</Label>
+</Item><Item id="3130" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of insulated wire and cable</LabelText>
+</Label>
+</Item><Item id="314" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of accumulators, primary cells and primary batteries</LabelText>
+</Label>
+</Item><Item id="3140" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of accumulators, primary cells and primary batteries</LabelText>
+</Label>
+</Item><Item id="315" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of electric lamps and lighting equipment</LabelText>
+</Label>
+</Item><Item id="3150" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of electric lamps and lighting equipment</LabelText>
+</Label>
+</Item><Item id="319" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other electrical equipment n.e.c.</LabelText>
+</Label>
+</Item><Item id="3190" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other electrical equipment n.e.c.</LabelText>
+</Label>
+</Item><Item id="32" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of radio, television and communication equipment and apparatus</LabelText>
+</Label>
+</Item><Item id="321" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of electronic valves and tubes and other electronic components</LabelText>
+</Label>
+</Item><Item id="3210" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of electronic valves and tubes and other electronic components</LabelText>
+</Label>
+</Item><Item id="322" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of television and radio transmitters and apparatus for line telephony and line telegraphy</LabelText>
+</Label>
+</Item><Item id="3220" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of television and radio transmitters and apparatus for line telephony and line telegraphy</LabelText>
+</Label>
+</Item><Item id="323" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of television and radio receivers, sound or video recording or reproducing apparatus, and associated goods</LabelText>
+</Label>
+</Item><Item id="3230" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of television and radio receivers, sound or video recording or reproducing apparatus, and associated goods</LabelText>
+</Label>
+</Item><Item id="33" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of medical, precision and optical instruments, watches and clocks</LabelText>
+</Label>
+</Item><Item id="331" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of medical appliances and instruments and appliances for measuring, checking, testing, navigating and other purposes, except optical instruments</LabelText>
+</Label>
+</Item><Item id="3311" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of medical and surgical equipment and orthopaedic appliances</LabelText>
+</Label>
+</Item><Item id="3312" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of instruments and appliances for measuring, checking, testing, navigating and other purposes, except industrial process control equipment</LabelText>
+</Label>
+</Item><Item id="3313" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of industrial process control equipment</LabelText>
+</Label>
+</Item><Item id="332" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of optical instruments and photographic equipment</LabelText>
+</Label>
+</Item><Item id="3320" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of optical instruments and photographic equipment</LabelText>
+</Label>
+</Item><Item id="333" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of watches and clocks</LabelText>
+</Label>
+</Item><Item id="3330" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of watches and clocks</LabelText>
+</Label>
+</Item><Item id="34" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of motor vehicles, trailers and semi-trailers</LabelText>
+</Label>
+</Item><Item id="341" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of motor vehicles</LabelText>
+</Label>
+</Item><Item id="3410" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of motor vehicles</LabelText>
+</Label>
+</Item><Item id="342" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers</LabelText>
+</Label>
+</Item><Item id="3420" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers</LabelText>
+</Label>
+</Item><Item id="343" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of parts and accessories for motor vehicles and their engines</LabelText>
+</Label>
+</Item><Item id="3430" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of parts and accessories for motor vehicles and their engines</LabelText>
+</Label>
+</Item><Item id="35" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other transport equipment</LabelText>
+</Label>
+</Item><Item id="351" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Building and repairing of ships and boats</LabelText>
+</Label>
+</Item><Item id="3511" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Building and repairing of ships</LabelText>
+</Label>
+</Item><Item id="3512" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Building and repairing of pleasure and sporting boats</LabelText>
+</Label>
+</Item><Item id="352" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of railway and tramway locomotives and rolling stock</LabelText>
+</Label>
+</Item><Item id="3520" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of railway and tramway locomotives and rolling stock</LabelText>
+</Label>
+</Item><Item id="353" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of aircraft and spacecraft</LabelText>
+</Label>
+</Item><Item id="3530" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of aircraft and spacecraft</LabelText>
+</Label>
+</Item><Item id="359" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of transport equipment n.e.c.</LabelText>
+</Label>
+</Item><Item id="3591" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of motorcycles</LabelText>
+</Label>
+</Item><Item id="3592" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of bicycles and invalid carriages</LabelText>
+</Label>
+</Item><Item id="3599" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of other transport equipment n.e.c.</LabelText>
+</Label>
+</Item><Item id="36" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of furniture; manufacturing n.e.c.</LabelText>
+</Label>
+</Item><Item id="361" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of furniture</LabelText>
+</Label>
+</Item><Item id="3610" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of furniture</LabelText>
+</Label>
+</Item><Item id="369" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacturing n.e.c.</LabelText>
+</Label>
+</Item><Item id="3691" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of jewellery and related articles</LabelText>
+</Label>
+</Item><Item id="3692" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of musical instruments</LabelText>
+</Label>
+</Item><Item id="3693" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of sports goods</LabelText>
+</Label>
+</Item><Item id="3694" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of games and toys</LabelText>
+</Label>
+</Item><Item id="3699" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other manufacturing n.e.c.</LabelText>
+</Label>
+</Item><Item id="37" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Recycling</LabelText>
+</Label>
+</Item><Item id="371" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Recycling of metal waste and scrap</LabelText>
+</Label>
+</Item><Item id="3710" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Recycling of metal waste and scrap</LabelText>
+</Label>
+</Item><Item id="372" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Recycling of non-metal waste and scrap</LabelText>
+</Label>
+</Item><Item id="3720" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Recycling of non-metal waste and scrap</LabelText>
+</Label>
+</Item><Item id="E" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Electricity, gas and water supply</LabelText>
+</Label>
+</Item><Item id="40" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Electricity, gas, steam and hot water supply</LabelText>
+</Label>
+</Item><Item id="401" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Production, collection and distribution of electricity</LabelText>
+</Label>
+</Item><Item id="4010" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Production, collection and distribution of electricity</LabelText>
+</Label>
+</Item><Item id="402" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of gas; distribution of gaseous fuels through mains</LabelText>
+</Label>
+</Item><Item id="4020" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Manufacture of gas; distribution of gaseous fuels through mains</LabelText>
+</Label>
+</Item><Item id="403" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Steam and hot water supply</LabelText>
+</Label>
+</Item><Item id="4030" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Steam and hot water supply</LabelText>
+</Label>
+</Item><Item id="41" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Collection, purification and distribution of water</LabelText>
+</Label>
+</Item><Item id="410" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Collection, purification and distribution of water</LabelText>
+</Label>
+</Item><Item id="4100" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Collection, purification and distribution of water</LabelText>
+</Label>
+</Item><Item id="F" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Construction</LabelText>
+</Label>
+</Item><Item id="45" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Construction</LabelText>
+</Label>
+</Item><Item id="451" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Site preparation</LabelText>
+</Label>
+</Item><Item id="4510" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Site preparation</LabelText>
+</Label>
+</Item><Item id="452" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Building of complete constructions or parts thereof; civil engineering</LabelText>
+</Label>
+</Item><Item id="4520" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Building of complete constructions or parts thereof; civil engineering</LabelText>
+</Label>
+</Item><Item id="453" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Building installation</LabelText>
+</Label>
+</Item><Item id="4530" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Building installation</LabelText>
+</Label>
+</Item><Item id="454" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Building completion</LabelText>
+</Label>
+</Item><Item id="4540" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Building completion</LabelText>
+</Label>
+</Item><Item id="455" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of construction or demolition equipment with operator</LabelText>
+</Label>
+</Item><Item id="4550" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of construction or demolition equipment with operator</LabelText>
+</Label>
+</Item><Item id="G" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods</LabelText>
+</Label>
+</Item><Item id="50" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Sale, maintenance and repair of motor vehicles and motorcycles; retail sale of automotive fuel</LabelText>
+</Label>
+</Item><Item id="501" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Sale of motor vehicles</LabelText>
+</Label>
+</Item><Item id="5010" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Sale of motor vehicles</LabelText>
+</Label>
+</Item><Item id="502" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Maintenance and repair of motor vehicles</LabelText>
+</Label>
+</Item><Item id="5020" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Maintenance and repair of motor vehicles</LabelText>
+</Label>
+</Item><Item id="503" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Sale of motor vehicle parts and accessories</LabelText>
+</Label>
+</Item><Item id="5030" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Sale of motor vehicle parts and accessories</LabelText>
+</Label>
+</Item><Item id="504" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Sale, maintenance and repair of motorcycles and related parts and accessories</LabelText>
+</Label>
+</Item><Item id="5040" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Sale, maintenance and repair of motorcycles and related parts and accessories</LabelText>
+</Label>
+</Item><Item id="505" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of automotive fuel</LabelText>
+</Label>
+</Item><Item id="5050" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of automotive fuel</LabelText>
+</Label>
+</Item><Item id="51" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale trade and commission trade, except of motor vehicles and motorcycles</LabelText>
+</Label>
+</Item><Item id="511" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale on a fee or contract basis</LabelText>
+</Label>
+</Item><Item id="5110" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale on a fee or contract basis</LabelText>
+</Label>
+</Item><Item id="512" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of agricultural raw materials, live animals, food, beverages and tobacco</LabelText>
+</Label>
+</Item><Item id="5121" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of agricultural raw materials and live animals</LabelText>
+</Label>
+</Item><Item id="5122" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of food, beverages and tobacco</LabelText>
+</Label>
+</Item><Item id="513" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of household goods</LabelText>
+</Label>
+</Item><Item id="5131" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of textiles, clothing  and footwear</LabelText>
+</Label>
+</Item><Item id="5139" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of other household goods</LabelText>
+</Label>
+</Item><Item id="514" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of non-agricultural intermediate products, waste and scrap</LabelText>
+</Label>
+</Item><Item id="5141" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of solid, liquid and gaseous fuels and related products</LabelText>
+</Label>
+</Item><Item id="5142" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of metals and metal ores</LabelText>
+</Label>
+</Item><Item id="5143" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of construction materials, hardware, plumbing and heating equipment and supplies</LabelText>
+</Label>
+</Item><Item id="5149" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of other intermediate products, waste and scrap</LabelText>
+</Label>
+</Item><Item id="515" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of machinery, equipment and supplies</LabelText>
+</Label>
+</Item><Item id="5150" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Wholesale of machinery, equipment and supplies</LabelText>
+</Label>
+</Item><Item id="519" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Other wholesale</LabelText>
+</Label>
+</Item><Item id="5190" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other wholesale</LabelText>
+</Label>
+</Item><Item id="52" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods</LabelText>
+</Label>
+</Item><Item id="521" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Non-specialized retail trade in stores</LabelText>
+</Label>
+</Item><Item id="5211" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale in non-specialized stores with food, beverages or tobacco predominating</LabelText>
+</Label>
+</Item><Item id="5219" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other retail sale in non-specialized stores</LabelText>
+</Label>
+</Item><Item id="522" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of food, beverages and tobacco in specialized stores</LabelText>
+</Label>
+</Item><Item id="5220" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of food, beverages and tobacco in specialized stores</LabelText>
+</Label>
+</Item><Item id="523" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Other retail trade of new goods in specialized stores</LabelText>
+</Label>
+</Item><Item id="5231" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles</LabelText>
+</Label>
+</Item><Item id="5232" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of textiles, clothing, footwear and leather goods</LabelText>
+</Label>
+</Item><Item id="5233" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of household appliances, articles and equipment</LabelText>
+</Label>
+</Item><Item id="5234" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of hardware, paints and glass</LabelText>
+</Label>
+</Item><Item id="5239" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other retail sale in specialized stores</LabelText>
+</Label>
+</Item><Item id="524" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of second-hand goods in stores</LabelText>
+</Label>
+</Item><Item id="5240" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale of second-hand goods in stores</LabelText>
+</Label>
+</Item><Item id="525" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Retail trade not in stores</LabelText>
+</Label>
+</Item><Item id="5251" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale via mail order houses</LabelText>
+</Label>
+</Item><Item id="5252" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Retail sale via stalls and markets</LabelText>
+</Label>
+</Item><Item id="5259" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other non-store retail sale</LabelText>
+</Label>
+</Item><Item id="526" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Repair of personal and household goods</LabelText>
+</Label>
+</Item><Item id="5260" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Repair of personal and household goods</LabelText>
+</Label>
+</Item><Item id="H" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Hotels and restaurants</LabelText>
+</Label>
+</Item><Item id="55" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Hotels and restaurants</LabelText>
+</Label>
+</Item><Item id="551" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Hotels; camping sites and other provision of short-stay accommodation</LabelText>
+</Label>
+</Item><Item id="5510" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Hotels; camping sites and other provision of short-stay accommodation</LabelText>
+</Label>
+</Item><Item id="552" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Restaurants, bars and canteens</LabelText>
+</Label>
+</Item><Item id="5520" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Restaurants, bars and canteens</LabelText>
+</Label>
+</Item><Item id="I" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Transport, storage and communications</LabelText>
+</Label>
+</Item><Item id="60" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Land transport; transport via pipelines</LabelText>
+</Label>
+</Item><Item id="601" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Transport via railways</LabelText>
+</Label>
+</Item><Item id="6010" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Transport via railways</LabelText>
+</Label>
+</Item><Item id="602" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Other land transport</LabelText>
+</Label>
+</Item><Item id="6021" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other scheduled passenger land transport</LabelText>
+</Label>
+</Item><Item id="6022" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other non-scheduled passenger land transport</LabelText>
+</Label>
+</Item><Item id="6023" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Freight transport by road</LabelText>
+</Label>
+</Item><Item id="603" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Transport via pipelines</LabelText>
+</Label>
+</Item><Item id="6030" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Transport via pipelines</LabelText>
+</Label>
+</Item><Item id="61" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Water transport</LabelText>
+</Label>
+</Item><Item id="611" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Sea and coastal water transport</LabelText>
+</Label>
+</Item><Item id="6110" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Sea and coastal water transport</LabelText>
+</Label>
+</Item><Item id="612" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Inland water transport</LabelText>
+</Label>
+</Item><Item id="6120" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Inland water transport</LabelText>
+</Label>
+</Item><Item id="62" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Air transport</LabelText>
+</Label>
+</Item><Item id="621" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Scheduled air transport</LabelText>
+</Label>
+</Item><Item id="6210" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Scheduled air transport</LabelText>
+</Label>
+</Item><Item id="622" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Non-scheduled air transport</LabelText>
+</Label>
+</Item><Item id="6220" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Non-scheduled air transport</LabelText>
+</Label>
+</Item><Item id="63" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Supporting and auxiliary transport activities; activities of travel agencies</LabelText>
+</Label>
+</Item><Item id="630" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Supporting and auxiliary transport activities; activities of travel agencies</LabelText>
+</Label>
+</Item><Item id="6301" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Cargo handling</LabelText>
+</Label>
+</Item><Item id="6302" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Storage and warehousing</LabelText>
+</Label>
+</Item><Item id="6303" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other supporting transport activities</LabelText>
+</Label>
+</Item><Item id="6304" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of travel agencies and tour operators; tourist assistance activities n.e.c.</LabelText>
+</Label>
+</Item><Item id="6309" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of other transport agencies</LabelText>
+</Label>
+</Item><Item id="64" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Post and telecommunications</LabelText>
+</Label>
+</Item><Item id="641" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Post and courier activities</LabelText>
+</Label>
+</Item><Item id="6411" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">National post activities</LabelText>
+</Label>
+</Item><Item id="6412" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Courier activities other than national post activities</LabelText>
+</Label>
+</Item><Item id="642" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Telecommunications</LabelText>
+</Label>
+</Item><Item id="6420" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Telecommunications</LabelText>
+</Label>
+</Item><Item id="J" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Financial intermediation</LabelText>
+</Label>
+</Item><Item id="65" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Financial intermediation, except insurance and pension funding</LabelText>
+</Label>
+</Item><Item id="651" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Monetary intermediation</LabelText>
+</Label>
+</Item><Item id="6511" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Central banking</LabelText>
+</Label>
+</Item><Item id="6519" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other monetary intermediation</LabelText>
+</Label>
+</Item><Item id="659" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Other financial intermediation</LabelText>
+</Label>
+</Item><Item id="6591" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Financial leasing</LabelText>
+</Label>
+</Item><Item id="6592" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other credit granting</LabelText>
+</Label>
+</Item><Item id="6599" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other financial intermediation n.e.c.</LabelText>
+</Label>
+</Item><Item id="66" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Insurance and pension funding, except compulsory social security</LabelText>
+</Label>
+</Item><Item id="660" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Insurance and pension funding, except compulsory social security</LabelText>
+</Label>
+</Item><Item id="6601" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Life insurance</LabelText>
+</Label>
+</Item><Item id="6602" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Pension funding</LabelText>
+</Label>
+</Item><Item id="6603" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Non-life insurance</LabelText>
+</Label>
+</Item><Item id="67" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Activities auxiliary to financial intermediation</LabelText>
+</Label>
+</Item><Item id="671" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Activities auxiliary to financial intermediation, except insurance and pension funding</LabelText>
+</Label>
+</Item><Item id="6711" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Administration of financial markets</LabelText>
+</Label>
+</Item><Item id="6712" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Security dealing activities</LabelText>
+</Label>
+</Item><Item id="6719" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities auxiliary to financial intermediation n.e.c.</LabelText>
+</Label>
+</Item><Item id="672" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Activities auxiliary to insurance and pension funding</LabelText>
+</Label>
+</Item><Item id="6720" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities auxiliary to insurance and pension funding</LabelText>
+</Label>
+</Item><Item id="K" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Real estate, renting and business activities</LabelText>
+</Label>
+</Item><Item id="70" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Real estate activities</LabelText>
+</Label>
+</Item><Item id="701" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Real estate activities with own or leased property</LabelText>
+</Label>
+</Item><Item id="7010" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Real estate activities with own or leased property</LabelText>
+</Label>
+</Item><Item id="702" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Real estate activities on a fee or contract basis</LabelText>
+</Label>
+</Item><Item id="7020" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Real estate activities on a fee or contract basis</LabelText>
+</Label>
+</Item><Item id="71" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of machinery and equipment without operator and of personal and household goods</LabelText>
+</Label>
+</Item><Item id="711" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of transport equipment</LabelText>
+</Label>
+</Item><Item id="7111" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of land transport equipment</LabelText>
+</Label>
+</Item><Item id="7112" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of water transport equipment</LabelText>
+</Label>
+</Item><Item id="7113" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of air transport equipment</LabelText>
+</Label>
+</Item><Item id="712" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of other machinery and equipment</LabelText>
+</Label>
+</Item><Item id="7121" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of agricultural machinery and equipment</LabelText>
+</Label>
+</Item><Item id="7122" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of construction and civil engineering machinery and equipment</LabelText>
+</Label>
+</Item><Item id="7123" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of office machinery and equipment (including computers)</LabelText>
+</Label>
+</Item><Item id="7129" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of other machinery and equipment n.e.c.</LabelText>
+</Label>
+</Item><Item id="713" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of personal and household goods n.e.c.</LabelText>
+</Label>
+</Item><Item id="7130" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Renting of personal and household goods n.e.c.</LabelText>
+</Label>
+</Item><Item id="72" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Computer and related activities</LabelText>
+</Label>
+</Item><Item id="721" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Hardware consultancy</LabelText>
+</Label>
+</Item><Item id="7210" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Hardware consultancy</LabelText>
+</Label>
+</Item><Item id="722" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Software consultancy and supply</LabelText>
+</Label>
+</Item><Item id="7220" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Software consultancy and supply</LabelText>
+</Label>
+</Item><Item id="723" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Data processing</LabelText>
+</Label>
+</Item><Item id="7230" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Data processing</LabelText>
+</Label>
+</Item><Item id="724" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Data base activities</LabelText>
+</Label>
+</Item><Item id="7240" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Data base activities</LabelText>
+</Label>
+</Item><Item id="725" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Maintenance and repair of office, accounting and computing machinery</LabelText>
+</Label>
+</Item><Item id="7250" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Maintenance and repair of office, accounting and computing machinery</LabelText>
+</Label>
+</Item><Item id="729" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Other computer related activities</LabelText>
+</Label>
+</Item><Item id="7290" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other computer related activities</LabelText>
+</Label>
+</Item><Item id="73" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Research and development</LabelText>
+</Label>
+</Item><Item id="731" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Research and experimental development on natural sciences and engineering (NSE)</LabelText>
+</Label>
+</Item><Item id="7310" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Research and experimental development on natural sciences and engineering (NSE)</LabelText>
+</Label>
+</Item><Item id="732" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Research and experimental development on social sciences and humanities (SSH)</LabelText>
+</Label>
+</Item><Item id="7320" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Research and experimental development on social sciences and humanities (SSH)</LabelText>
+</Label>
+</Item><Item id="74" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Other business activities</LabelText>
+</Label>
+</Item><Item id="741" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Legal, accounting, book-keeping and auditing activities; tax consultancy; market research and public opinion polling; business and management consultancy</LabelText>
+</Label>
+</Item><Item id="7411" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Legal activities</LabelText>
+</Label>
+</Item><Item id="7412" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Accounting, book-keeping and auditing activities; tax consultancy</LabelText>
+</Label>
+</Item><Item id="7413" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Market research and public opinion polling</LabelText>
+</Label>
+</Item><Item id="7414" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Business and management consultancy activities</LabelText>
+</Label>
+</Item><Item id="742" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Architectural, engineering and other technical activities</LabelText>
+</Label>
+</Item><Item id="7421" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Architectural and engineering activities and related technical consultancy</LabelText>
+</Label>
+</Item><Item id="7422" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Technical testing and analysis</LabelText>
+</Label>
+</Item><Item id="743" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Advertising</LabelText>
+</Label>
+</Item><Item id="7430" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Advertising</LabelText>
+</Label>
+</Item><Item id="749" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Business activities n.e.c.</LabelText>
+</Label>
+</Item><Item id="7491" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Labour recruitment and provision of personnel</LabelText>
+</Label>
+</Item><Item id="7492" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Investigation and security activities</LabelText>
+</Label>
+</Item><Item id="7493" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Building-cleaning activities</LabelText>
+</Label>
+</Item><Item id="7494" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Photographic activities</LabelText>
+</Label>
+</Item><Item id="7495" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Packaging activities</LabelText>
+</Label>
+</Item><Item id="7499" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other business activities n.e.c.</LabelText>
+</Label>
+</Item><Item id="L" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Public administration and defence; compulsory social security</LabelText>
+</Label>
+</Item><Item id="75" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Public administration and defence; compulsory social security</LabelText>
+</Label>
+</Item><Item id="751" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Administration of the State and the economic and social policy of the community</LabelText>
+</Label>
+</Item><Item id="7511" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">General (Over-all) public service activities</LabelText>
+</Label>
+</Item><Item id="7512" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Regulation of the activities of agencies that provide health care, education, cultural services and other social services excluding social security</LabelText>
+</Label>
+</Item><Item id="7513" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Regulation of and contribution to more efficient operation of business</LabelText>
+</Label>
+</Item><Item id="7514" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Ancillary service activities for the government as a whole</LabelText>
+</Label>
+</Item><Item id="752" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Provision of services to the community as a whole</LabelText>
+</Label>
+</Item><Item id="7521" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Foreign affairs</LabelText>
+</Label>
+</Item><Item id="7522" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Defence activities</LabelText>
+</Label>
+</Item><Item id="7523" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Public order and safety activities</LabelText>
+</Label>
+</Item><Item id="753" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Compulsory social security activities</LabelText>
+</Label>
+</Item><Item id="7530" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Compulsory social security activities</LabelText>
+</Label>
+</Item><Item id="M" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Education</LabelText>
+</Label>
+</Item><Item id="80" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Education</LabelText>
+</Label>
+</Item><Item id="801" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Primary education</LabelText>
+</Label>
+</Item><Item id="8010" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Primary education</LabelText>
+</Label>
+</Item><Item id="802" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Secondary education</LabelText>
+</Label>
+</Item><Item id="8021" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">General secondary education</LabelText>
+</Label>
+</Item><Item id="8022" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Technical and vocational secondary education</LabelText>
+</Label>
+</Item><Item id="803" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Higher education</LabelText>
+</Label>
+</Item><Item id="8030" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Higher education</LabelText>
+</Label>
+</Item><Item id="809" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Adult and other education</LabelText>
+</Label>
+</Item><Item id="8090" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Adult and other education</LabelText>
+</Label>
+</Item><Item id="N" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Health and social work</LabelText>
+</Label>
+</Item><Item id="85" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Health and social work</LabelText>
+</Label>
+</Item><Item id="851" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Human health activities</LabelText>
+</Label>
+</Item><Item id="8511" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Hospital activities</LabelText>
+</Label>
+</Item><Item id="8512" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Medical and dental practice activities</LabelText>
+</Label>
+</Item><Item id="8519" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other human health activities</LabelText>
+</Label>
+</Item><Item id="852" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Veterinary activities</LabelText>
+</Label>
+</Item><Item id="8520" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Veterinary activities</LabelText>
+</Label>
+</Item><Item id="853" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Social work activities</LabelText>
+</Label>
+</Item><Item id="8531" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Social work with accommodation</LabelText>
+</Label>
+</Item><Item id="8532" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Social work without accommodation</LabelText>
+</Label>
+</Item><Item id="O" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Other community, social and personal service activities</LabelText>
+</Label>
+</Item><Item id="90" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Sewage and refuse disposal, sanitation and similar activities</LabelText>
+</Label>
+</Item><Item id="900" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Sewage and refuse disposal, sanitation and similar activities</LabelText>
+</Label>
+</Item><Item id="9000" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Sewage and refuse disposal, sanitation and similar activities</LabelText>
+</Label>
+</Item><Item id="91" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of membership organizations n.e.c.</LabelText>
+</Label>
+</Item><Item id="911" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of business, employers and professional organizations</LabelText>
+</Label>
+</Item><Item id="9111" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of business and employers organizations</LabelText>
+</Label>
+</Item><Item id="9112" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of professional organizations</LabelText>
+</Label>
+</Item><Item id="912" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of trade unions</LabelText>
+</Label>
+</Item><Item id="9120" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of trade unions</LabelText>
+</Label>
+</Item><Item id="919" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of other membership organizations</LabelText>
+</Label>
+</Item><Item id="9191" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of religious organizations</LabelText>
+</Label>
+</Item><Item id="9192" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of political organizations</LabelText>
+</Label>
+</Item><Item id="9199" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Activities of other membership organizations n.e.c.</LabelText>
+</Label>
+</Item><Item id="92" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Recreational, cultural and sporting activities</LabelText>
+</Label>
+</Item><Item id="921" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Motion picture, radio, television and other entertainment activities</LabelText>
+</Label>
+</Item><Item id="9211" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Motion picture and video production and distribution</LabelText>
+</Label>
+</Item><Item id="9212" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Motion picture projection</LabelText>
+</Label>
+</Item><Item id="9213" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Radio and television activities</LabelText>
+</Label>
+</Item><Item id="9214" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Dramatic arts, music and other arts activities</LabelText>
+</Label>
+</Item><Item id="9219" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other entertainment activities n.e.c.</LabelText>
+</Label>
+</Item><Item id="922" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">News agency activities</LabelText>
+</Label>
+</Item><Item id="9220" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">News agency activities</LabelText>
+</Label>
+</Item><Item id="923" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Library, archives, museums and other cultural activities</LabelText>
+</Label>
+</Item><Item id="9231" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Library and archives activities</LabelText>
+</Label>
+</Item><Item id="9232" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Museums activities and preservation of historical sites and buildings</LabelText>
+</Label>
+</Item><Item id="9233" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Botanical and zoological gardens and nature reserves activities</LabelText>
+</Label>
+</Item><Item id="924" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Sporting and other recreational activities</LabelText>
+</Label>
+</Item><Item id="9241" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Sporting activities</LabelText>
+</Label>
+</Item><Item id="9249" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other recreational activities</LabelText>
+</Label>
+</Item><Item id="93" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Other service activities</LabelText>
+</Label>
+</Item><Item id="930" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Other service activities</LabelText>
+</Label>
+</Item><Item id="9301" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Washing, and (dry-) cleaning of textile and fur products</LabelText>
+</Label>
+</Item><Item id="9302" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Hairdressing and other beauty treatment</LabelText>
+</Label>
+</Item><Item id="9303" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Funeral and related activities</LabelText>
+</Label>
+</Item><Item id="9309" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Other service activities n.e.c.</LabelText>
+</Label>
+</Item><Item id="P" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Private households with employed persons</LabelText>
+</Label>
+</Item><Item id="95" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Private households with employed persons</LabelText>
+</Label>
+</Item><Item id="950" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Private households with employed persons</LabelText>
+</Label>
+</Item><Item id="9500" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Private households with employed persons</LabelText>
+</Label>
+</Item><Item id="Q" idLevel="1"> <Label qualifier="Usual">
+<LabelText language="EN">Extra-territorial organizations and bodies</LabelText>
+</Label>
+</Item><Item id="99" idLevel="2"> <Label qualifier="Usual">
+<LabelText language="EN">Extra-territorial organizations and bodies</LabelText>
+</Label>
+</Item><Item id="990" idLevel="3"> <Label qualifier="Usual">
+<LabelText language="EN">Extra-territorial organizations and bodies</LabelText>
+</Label>
+</Item><Item id="9900" idLevel="4"> <Label qualifier="Usual">
+<LabelText language="EN">Extra-territorial organizations and bodies</LabelText>
+</Label>
+</Item>
+	</Classification>
+</Claset>

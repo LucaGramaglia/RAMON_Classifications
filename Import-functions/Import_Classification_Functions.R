@@ -7,7 +7,7 @@ large.query.handler<-function(endpoint, query.list, query.builder, limit=5000){
   i<-1
   
   while (i<length(query.list)){
-
+    
     begin<-i
     size<-0
     while (size + nchar(query.list[i]) < limit && i<length(query.list)) {
@@ -18,7 +18,7 @@ large.query.handler<-function(endpoint, query.list, query.builder, limit=5000){
     query<-paste(query.list[begin:i], collapse="")
     query<-query.builder(query)
     results<-rbind(results, SPARQL(endpoint,query)$results)
-  
+    
   }
   
   return(results)
@@ -59,22 +59,6 @@ form.classification.query<-function(classification.id, classification.label){
   return(query)
 }
 
-load.classification.links<-function(endpoint, file.xml){
-  
-  classification.links.xml<-xmlTreeParse(file.xml, useInternalNodes = TRUE)
-  top<-xmlRoot(classification.links.xml)
-  
-  classification.source.id<-xmlGetAttr(top[["LinkSet"]][["ClassificationLink"]][["LinkSource"]], "id")
-  classification.target.id<-xmlGetAttr(top[["LinkSet"]][["ClassificationLink"]][["LinkTarget"]], "id")
-
-  link.list<-xpathApply(top, "//LinkSet/ItemLink", function (x) xmlSApply(x,xmlGetAttr, name="id"))
-  
-  query.list <- lapply(link.list, function (x) paste("<", classification.source.id, "_", x[1], ">", " skos:related ", "<", classification.target.id, "_", x[2], "> .", sep=""))
-  print(length(query.list))
-  insert.output<-large.query.handler(endpoint, query.list, function(x) paste("INSERT DATA {", x, "}"))
-
-}
-
 load.classification<-function(endpoint, file.csv, file.xml){
   
   classification.xml<-xmlTreeParse(file.xml, useInternalNodes = TRUE)
@@ -88,6 +72,22 @@ load.classification<-function(endpoint, file.csv, file.xml){
   SPARQL(endpoint, classification.query)
   
   concept.query.list<-apply(classification.csv, 1, form.concept.query, classification.id=classification.id)
-  print(length(concept.query.list))
+  
   insert.output<-large.query.handler(endpoint, concept.query.list, function(x) paste("INSERT DATA {", x, "}"))
+}
+
+load.classification.links<-function(endpoint, file.xml){
+  
+  classification.links.xml<-xmlTreeParse(file.xml, useInternalNodes = TRUE)
+  top<-xmlRoot(classification.links.xml)
+  
+  classification.source.id<-xmlGetAttr(top[["LinkSet"]][["ClassificationLink"]][["LinkSource"]], "id")
+  classification.target.id<-xmlGetAttr(top[["LinkSet"]][["ClassificationLink"]][["LinkTarget"]], "id")
+  
+  link.list<-xpathApply(top, "//LinkSet/ItemLink", function (x) xmlSApply(x,xmlGetAttr, name="id"))
+  
+  query.list <- lapply(link.list, function (x) paste("<", classification.source.id, "_", x[1], ">", " skos:related ", "<", classification.target.id, "_", x[2], "> .", sep=""))
+  
+  insert.output<-large.query.handler(endpoint, query.list, function(x) paste("INSERT DATA {", x, "}"))
+  
 }
